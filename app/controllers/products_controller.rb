@@ -6,9 +6,9 @@ class ProductsController < ApplicationController
   def new
     @product = Product.new
   end
-  
-  def edit
-    @product = Product.new
+
+  def purchase
   end
+  
 
 end
